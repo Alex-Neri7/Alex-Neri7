@@ -2,7 +2,6 @@
 
 ## 🌱 Ingeniero en Tecnologías de la Información y Comunicación. 
 
-## ⚡Se agradece la ayuda y espero poder ayudar también.
 <!--
 **Alex-Neri7/Alex-Neri7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
